@@ -10,9 +10,8 @@ The repo contains a Jupyter notebook, describing the math and containing the cod
 
 The animation is show in real-time, and you can select between currently 3 U(x) functions - an infinite square well, a harmonic potential, or a finite barrier. You can also select between 3 wave-functions, a sinusoid and 2 Gaussians. More presets and the ability to input custom wavefunctions and potentials will be added eventually.
 
-## Things to do here
-0. Look at this, we're online!
-   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DILET1/SchrodingerSolver/main?urlpath=%2Fdoc%2Ftree%2Fnotebook.ipynb)
+## Things to do here[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DILET1/SchrodingerSolver/main?urlpath=%2Fdoc%2Ftree%2Fnotebook.ipynb)
+0. Look at this, we're online! Do note that you should tone down the Sx here as my code sucks and runs slowly on Binder's limited hardware.
 1. Look at the default conditions. With the infinite square well and the sinusoidal eigenstate, you can see that the wavefunction is static in time.
 2. Play with the other wavefunctions in the infinite square well. Bouncy bounce.
 3. Swap to the finite square well and the left-shifted Gaussian. Observe the tunnelling of the wavefunction.
